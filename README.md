@@ -20,14 +20,14 @@ My pitch to the team is titled "Cycling through data science," and illustrates t
 
 ### Framework
 - Define the data science problem
-- Gather the data
-- Explore and transform the data
-- Build the model
-- Evaluate the model
-- Answer the problem
+- Gather and process data
+- Explore and transform data
+- Model and evaluate
+- Test trained model
+- Answer the data science problem
 
 ### Data science problem
-> Gather and utilize features which might help predict the number of bike users in any given day in DC.
+`Gather and utilize features which might help predict the number of bike users in any given day in DC.`
 
 *Regression* problems are inference problems in that we infer, or predict, parameters of a population from a sample. They are also specifically supervised learning problems that entail building a model to make predictions about a continuous target variable (where the variable is comprised of uncountable values).
 
