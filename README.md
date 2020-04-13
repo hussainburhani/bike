@@ -33,18 +33,17 @@ My pitch to the team is titled "Cycling through data science," and illustrates t
 
 
 ## Datasets 
-- [Capital Bikeshare (aggregate hourly and daily)](./code/eda_capital_bikeshare_historic.ipynb)
-- [Capital Bikeshare](./code/eda_capital_bikeshare.ipynb)
+- [Capital Bikeshare](./code/explore.ipynb)
 
 ## Deliverables
-A Jupyter notebook, [mlr_general_cycles.ipynb](./code/mlr_general_cycles.ipynb), for which a structured format is provided to follow through with the code, modeling, and analysis and which also describes some of the data with visualizations and statistical analysis. In addition some exploratory data analysis is provided in the notebook files under Datasets.
+A Jupyter notebook, [model.ipynb](./code/model.ipynb), for which a structured format is provided to follow through with the code, modeling, and analysis and which also describes some of the data with visualizations and statistical analysis. In addition some exploratory data analysis is provided in the notebook files under Datasets.
 A README markdown file, [this file](./README.md), which provides an introduction to and an overview of the project.
-A presentation [slideshow](./slides/capstone_bike.pdf) rendered as a .pdf file. The included presentation, intended for a semi-technical audience, was presented to the class on February 12th, 2019.
+A presentation [slideshow](./slides/slides.pdf) rendered as a .pdf file. The included presentation, intended for a semi-technical audience, was presented to the class on February 12th, 2019.
 
 ## Technical Report and Implementation
-I used the [mlr_general_cycles.ipynb](./code/mlr_general_cycles.ipynb) Jupyter notebook to outline the entire process, and is meant to showcase the methodology and implementation for defining the problem, gathering, exploring, and tranforming the dataset, and building, fitting, and evaluating the model to answer the data science question. I have provided commenting and context as much as possible, but in essensce, it is a rather raw working file to provide both methodology and future reference.
+I used the [mlr_general_cycles.ipynb](./code/model.ipynb) Jupyter notebook to outline the entire process, and is meant to showcase the methodology and implementation for defining the problem, gathering, exploring, and tranforming the dataset, and building, fitting, and evaluating the model to answer the data science question. I have provided commenting and context as much as possible, but in essensce, it is a rather raw working file to provide both methodology and future reference.
 
-In addition, this truncated copy of the technical report [the live product demo](./code/mlr_general_cycles_demo.ipynb) includes a tool which can be used to predict the number of bikers in any given day in DC.
+In addition, this truncated copy of the technical report [the live product demo](./code/tool.ipynb) includes a tool which can be used to predict the number of bikers in any given day in DC.
 
 ## Executive Summary
 
