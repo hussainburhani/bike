@@ -29,7 +29,7 @@ My pitch to the team is titled "Cycling through data science," and illustrates t
 ### Data science problem
 `Gather and utilize features which might help predict the number of bike users in any given day in DC.`
 
-*Regression* problems are inference problems in that we infer, or predict, parameters of a population from a sample. They are also specifically supervised learning problems that entail building a model to make predictions about a continuous target variable (where the variable is comprised of uncountable values).
+`Regression` problems are inference problems in that we infer, or predict, parameters of a population from a sample. They are also specifically `supervised learning` problems that entail building a model to make predictions about a continuous target variable (where the variable is comprised of uncountable values).
 
 
 ## Datasets 
@@ -41,9 +41,9 @@ A README markdown file, [this file](./README.md), which provides an introduction
 A presentation [slideshow](./slides/slides.pdf) rendered as a .pdf file. The included presentation, intended for a semi-technical audience, was presented to the class on February 12th, 2019.
 
 ## Technical Report and Implementation
-I used the [mlr_general_cycles.ipynb](./code/model.ipynb) Jupyter notebook to outline the entire process, and is meant to showcase the methodology and implementation for defining the problem, gathering, exploring, and tranforming the dataset, and building, fitting, and evaluating the model to answer the data science question. I have provided commenting and context as much as possible, but in essensce, it is a rather raw working file to provide both methodology and future reference.
+I used the [explore.ipynb](./code/explore.ipynb) and [model.ipynb](./code/model.ipynb) Jupyter notebooks to outline the entire data science process, and is meant to showcase the methodology and implementation for defining the problem, gathering, exploring, and tranforming the dataset, and building, fitting, and evaluating the model to answer the data science question. I have provided commenting and context as much as possible, but in essensce, constitute working files for continued improvements and future reference.
 
-In addition, this truncated copy of the technical report [the live product demo](./code/tool.ipynb) includes a tool which can be used to predict the number of bikers in any given day in DC.
+In addition, the [the live product demo](./code/tool.ipynb) includes a tool which can be used to predict the number of bikers in any given day in DC. As the tool uses `ipywidgets`, please use `jupyter notebook` or install supporting packages if using `jupyter lab`.
 
 ## Executive Summary
 
